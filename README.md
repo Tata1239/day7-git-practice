@@ -14,6 +14,6 @@ Learning version control and collaboration using Git and GitHub.
 Version: Updated by Branch A and Branch B (Conflict Resolved)
 
 ===
-
+CI/CD practical exercise completed.
 
 
