@@ -10,7 +10,10 @@
 
 # \## Purpose
 
-# Learning version control and collaboration using Git and GitHub.
+Learning version control and collaboration using Git and GitHub.
+
+Version: Updated by Branch A
+===
 
 
 
